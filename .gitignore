@@ -6,3 +6,6 @@
 *.sym
 *.lss
 *.lst
+*.hex
+*.eep
+.dep/
